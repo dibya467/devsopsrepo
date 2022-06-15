@@ -5,3 +5,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 This is a new edit using Github editor, directly from Github
+
+This is the next edit for pull. directly from Github.
